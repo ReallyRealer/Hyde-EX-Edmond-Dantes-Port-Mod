@@ -1,0 +1,9 @@
+//‹óƒtƒ@ƒCƒ‹
+
+const Def_ChrNo_Chr027 = 27;
+
+const Def_ChrNo_HydEX  = 27;
+
+const Def_ChrNo_Chr028 = 28;
+
+const Def_ChrNo_MC  = 28;
